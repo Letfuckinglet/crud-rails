@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+Este projeto foi criado no Bootcamp de introdução a Ruby on Rails promovido pelas Rails Girls SP em Outubro de 2019. Se trata de um CRUD em Ruby com o uso de um localhost.
